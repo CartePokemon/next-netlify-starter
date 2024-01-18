@@ -13,10 +13,9 @@ export default function Home() {
       <main>
     <br/><br/><br/><br/><br/><br/>
         <Header title="Cartes Pokémon : Retour sur un phénomène mondialement populaire" />
-<p>&nbsp;</p><p>&nbsp;</p><br/><br/><br/><br/><br/><br/>
+<div>
 <div id="__next">
-<div class="container">
-    <br/><br/><br/><br/><br/><br/>
+<div class="container">    
 <h1 class="title">Cartes Pok&eacute;mon : Retour sur un ph&eacute;nom&egrave;ne mondialement populaire</h1>
 <p>D&eacute;couvrez tout ce qu'il faut savoir sur les cartes Pok&eacute;mon dans cette page.&nbsp;</p>
 <h2>L'&Eacute;mergence des Cartes Pok&eacute;mon</h2>
@@ -65,11 +64,13 @@ export default function Home() {
 <p>Aujourd'hui, les cartes Pok&eacute;mon continuent de captiver les collectionneurs et les joueurs du monde entier. Avec de nouvelles extensions, des collaborations cr&eacute;atives et des &eacute;v&eacute;nements &agrave; venir, l'avenir des cartes Pok&eacute;mon semble prometteur. Ces petits morceaux de carton ont laiss&eacute; une empreinte ind&eacute;l&eacute;bile dans l'histoire du jeu et de la collecte, t&eacute;moignant de la durabilit&eacute; et de l'attrait intemporel de l'univers Pok&eacute;mon.</p>
 <p>&Agrave; lire : <a href="https://poke-cartes.fr/actualites/c-est-quoi-pokemon-151/" target="_blank">C'est quoi les cartes Pok&eacute;mon 151</a> ?&nbsp;</p>
 <p>&nbsp;</p>
+</div>
 <footer class="Footer_footer__pQtti"></footer></div>
 </div>
       </main>
 
       <Footer />
     </div>
+    
   )
 }

@@ -16,7 +16,7 @@ export default function Home() {
 <div>
 <div id="__next">
 <div class="container">
-<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
+<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
 <h1 class="title">Cartes Pok&eacute;mon : Retour sur un ph&eacute;nom&egrave;ne mondialement populaire</h1>
 <p>D&eacute;couvrez tout ce qu'il faut savoir sur les cartes Pok&eacute;mon dans cette page.&nbsp;</p>
 <h2>L'&Eacute;mergence des Cartes Pok&eacute;mon</h2>

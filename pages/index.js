@@ -11,8 +11,9 @@ export default function Home() {
       </Head>
 
       <main>
+    <br/><br/><br/>
         <Header title="Cartes Pokémon : Retour sur un phénomène mondialement populaire" />
-<p>&nbsp;</p><p>&nbsp;</p>
+<p>&nbsp;</p><p>&nbsp;</p><br/><br/><br/>
 <h2>L'Émergence des Cartes Pokémon</h2>
 <p>Les cartes Pokémon ont fait leur première apparition en 1996, créées par la société japonaise Nintendo, en partenariat avec Game Freak. À l'origine, ces cartes étaient destinées à accompagner le jeu vidéo Pokémon, offrant ainsi une expérience de jeu plus immersive et étendue. Les créateurs, Ken Sugimori, Atsuko Nishida et Koji Nishino, ont donné vie à des centaines de créatures captivantes, chacune avec ses propres pouvoirs et caractéristiques distincts.</p>
 <h2>L'Expansion Internationale</h2>

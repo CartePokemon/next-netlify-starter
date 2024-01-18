@@ -16,7 +16,7 @@ export default function Home() {
 <div>
 <div id="__next">
 <div class="container">
-<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
+<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
 <h1 class="title">Cartes Pok&eacute;mon : Retour sur un ph&eacute;nom&egrave;ne mondialement populaire</h1>
 <p>D&eacute;couvrez tout ce qu'il faut savoir sur les cartes Pok&eacute;mon dans cette page.&nbsp;</p>
 <h2>L'&Eacute;mergence des Cartes Pok&eacute;mon</h2>
@@ -31,7 +31,6 @@ export default function Home() {
 <li><a href="https://poke-cartes.fr/cartes-pokemon/jungle/empiflor-14-64-jungle-carte-pokemon/" target="_blank">Empiflor jungle</a>.&nbsp;</li>
 <li><a href="https://fr.wikipedia.org/wiki/Jeu_de_cartes_%C3%A0_collectionner_Pok%C3%A9mon" target="_blank">Le wikip&eacute;dia carte Pok&eacute;</a>.&nbsp;</li>
 </ul>
-<p>&nbsp;</p>
 <h2>La Folie des Collectionneurs</h2>
 <p>Les cartes Pok&eacute;mon ont transcend&eacute; leur r&ocirc;le initial de simple accessoire de jeu pour devenir un ph&eacute;nom&egrave;ne de collection mondial. Les joueurs et les passionn&eacute;s ont &eacute;t&eacute; attir&eacute;s par l'id&eacute;e de collectionner et de poss&eacute;der des cartes rares. Des cartes holographiques brillantes aux premi&egrave;res &eacute;ditions limit&eacute;es, la recherche de cartes rares est devenue une qu&ecirc;te passionnante pour de nombreux collectionneurs, cr&eacute;ant ainsi un march&eacute; florissant.</p>
 <p>&Agrave; d&eacute;couvrir : <a href="https://poke-cartes.fr/cartes-pokemon/jungle/ronflex-11-64-jungle-carte-pokemon/" target="_blank">Ronflex jungle</a>.&nbsp;</p>

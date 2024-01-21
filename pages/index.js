@@ -17,7 +17,6 @@ export default function Home() {
 <div id="__next">
 <div class="container">
 <br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
-<h1 class="title">Cartes Pok&eacute;mon : Retour sur un ph&eacute;nom&egrave;ne mondialement populaire</h1>
 <p>D&eacute;couvrez tout ce qu'il faut savoir sur les cartes Pok&eacute;mon dans cette page.&nbsp;</p>
 <h2>L'&Eacute;mergence des Cartes Pok&eacute;mon</h2>
 <p>Les cartes Pok&eacute;mon ont fait leur premi&egrave;re apparition en 1996, cr&eacute;&eacute;es par la soci&eacute;t&eacute; japonaise Nintendo, en partenariat avec Game Freak. &Agrave; l'origine, ces cartes &eacute;taient destin&eacute;es &agrave; accompagner le jeu vid&eacute;o Pok&eacute;mon, offrant ainsi une exp&eacute;rience de jeu plus immersive et &eacute;tendue. Les cr&eacute;ateurs, Ken Sugimori, Atsuko Nishida et Koji Nishino, ont donn&eacute; vie &agrave; des centaines de cr&eacute;atures captivantes, chacune avec ses propres pouvoirs et caract&eacute;ristiques distincts.</p>

@@ -15,7 +15,7 @@ export default function Home() {
         <Header title="Cartes Pokémon : Retour sur un phénomène mondialement populaire" />
 <div>
 <div style="width: 100%;">
-<img src="https://goopics.net/i/ioasee" alt="Image" style="width: 100%; height: auto;">
+<img src="https://i.goopics.net/ioasee.jpg" alt="cartes pokémon" style="width: 100%; height: auto;">
 </div>
   <h1>Cartes Pokémon : Retour sur un phénomène mondialement populaire</h1>
 <p>D&eacute;couvrez tout ce qu'il faut savoir sur les cartes Pok&eacute;mon dans cette page.&nbsp;</p>

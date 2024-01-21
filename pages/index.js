@@ -12,7 +12,6 @@ export default function Home() {
 
       <main>
     
-        <Header title="Cartes Pokémon : Retour sur un phénomène mondialement populaire" />
 <div>
 <div style="width: 100%;">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/International_Pok%C3%A9mon_logo.svg/langfr-1920px-International_Pok%C3%A9mon_logo.svg.png" alt="cartes pokémon" style="width: 100%; height: auto;">

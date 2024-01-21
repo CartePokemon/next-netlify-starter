@@ -4,7 +4,7 @@ import Footer from '@components/Footer'
 
 export default function Home() {
   return (
-    <div className="container">
+    <div>
       <Head>
         <title>Cartes Pokémon : Retour sur un phénomène mondialement populaire</title>
         <link rel="icon" href="/favicon.ico" />

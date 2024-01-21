@@ -14,9 +14,10 @@ export default function Home() {
     
         <Header title="Cartes Pokémon : Retour sur un phénomène mondialement populaire" />
 <div>
-<div id="__next">
-<div class="container">
-<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
+<div style="width: 100%;">
+<img src="https://goopics.net/i/ioasee" alt="Image" style="width: 100%; height: auto;">
+</div>
+  <h1>Cartes Pokémon : Retour sur un phénomène mondialement populaire</h1>
 <p>D&eacute;couvrez tout ce qu'il faut savoir sur les cartes Pok&eacute;mon dans cette page.&nbsp;</p>
 <h2>L'&Eacute;mergence des Cartes Pok&eacute;mon</h2>
 <p>Les cartes Pok&eacute;mon ont fait leur premi&egrave;re apparition en 1996, cr&eacute;&eacute;es par la soci&eacute;t&eacute; japonaise Nintendo, en partenariat avec Game Freak. &Agrave; l'origine, ces cartes &eacute;taient destin&eacute;es &agrave; accompagner le jeu vid&eacute;o Pok&eacute;mon, offrant ainsi une exp&eacute;rience de jeu plus immersive et &eacute;tendue. Les cr&eacute;ateurs, Ken Sugimori, Atsuko Nishida et Koji Nishino, ont donn&eacute; vie &agrave; des centaines de cr&eacute;atures captivantes, chacune avec ses propres pouvoirs et caract&eacute;ristiques distincts.</p>
@@ -63,9 +64,7 @@ export default function Home() {
 <p>Aujourd'hui, les cartes Pok&eacute;mon continuent de captiver les collectionneurs et les joueurs du monde entier. Avec de nouvelles extensions, des collaborations cr&eacute;atives et des &eacute;v&eacute;nements &agrave; venir, l'avenir des cartes Pok&eacute;mon semble prometteur. Ces petits morceaux de carton ont laiss&eacute; une empreinte ind&eacute;l&eacute;bile dans l'histoire du jeu et de la collecte, t&eacute;moignant de la durabilit&eacute; et de l'attrait intemporel de l'univers Pok&eacute;mon.</p>
 <p>&Agrave; lire : <a href="https://poke-cartes.fr/actualites/c-est-quoi-pokemon-151/" target="_blank">C'est quoi les cartes Pok&eacute;mon 151</a> ?&nbsp;</p>
 <p>&nbsp;</p>
-</div>
 <footer class="Footer_footer__pQtti"></footer></div>
-</div>
       </main>
 
       <Footer />
